@@ -11,6 +11,10 @@
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
+    
+    <label for="contact"><b>Enter contact number</b></label>
+    <input type="text" placeholder="Enter contact number" name="contact" id="contact" required>
+    <br>
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
